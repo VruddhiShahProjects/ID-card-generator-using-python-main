@@ -166,11 +166,11 @@ csvfile.close()
 ```
 # Taking Input from User-
 
-![Input from user](https://github.com/aryanraj2713/ID-card-generator-using-python/blob/main/input.jpg)
+![Input from user](https://github.com/vruddhishah2713/ID-card-generator-using-python/blob/main/input.jpg)
 
 # Generated Example ID card-
 
-![Id card](https://github.com/aryanraj2713/ID-card-generator-using-python/blob/main/Vruddhi%20Raj.png)
+![Id card](https://github.com/vruddhishah2713/ID-card-generator-using-python/blob/main/Vruddhi%20Raj.png)
 
 *Input details are saved in data.csv also for further reffrence*
 
