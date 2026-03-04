@@ -170,7 +170,7 @@ csvfile.close()
 
 # Generated Example ID card-
 
-![Id card](https://github.com/aryanraj2713/ID-card-generator-using-python/blob/main/Aryan%20Raj.png)
+![Id card](https://github.com/aryanraj2713/ID-card-generator-using-python/blob/main/Vruddhi%20Raj.png)
 
 *Input details are saved in data.csv also for further reffrence*
 
@@ -183,9 +183,9 @@ Contributions are always welcome! You can contribute to this project in the foll
 
 ## Author
 
-* Aryan Raj
+* Vruddhi  shah
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Aryan Raj](https://www.linkedin.com/in/aryan-raj-3a68b39a/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Vruddhi  Shah](https://www.linkedin.com/in/aryan-raj-3a68b39a/)
 
 
 
